@@ -1,6 +1,6 @@
 # EPIC FUN KNIFEZONE Wiki
 
-Welcome to the official EPIC FUN KNIFEZONE documentation.
+Welcome to the official Epic Fun Knife documentation.
 
 ## Navigation
 
@@ -21,7 +21,7 @@ Welcome to the official EPIC FUN KNIFEZONE documentation.
 
 ## About
 
-EPIC FUN KNIFEZONE is a custom Counter-Strike 1.6 game mode focused on unique knives, special abilities, mobility, tactical combat, and team play.
+Epic Fun Knife is a custom Counter-Strike 1.6 game mode focused on unique knives, special abilities, mobility, tactical combat, and team play.
 
 Each knife has its own abilities, passive effects, strengths, and weaknesses.
 
