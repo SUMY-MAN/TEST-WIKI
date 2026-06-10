@@ -1,4 +1,4 @@
-# EPIC FUN KNIFEZONE Wiki
+# Epic Fun Knife Wiki
 
 Welcome to the official Epic Fun Knife documentation.
 
@@ -24,4 +24,5 @@ Welcome to the official Epic Fun Knife documentation.
 Epic Fun Knife is a custom Counter-Strike 1.6 game mode focused on unique knives, special abilities, mobility, tactical combat, and team play.
 
 Each knife has its own abilities, passive effects, strengths, and weaknesses.
+
 
